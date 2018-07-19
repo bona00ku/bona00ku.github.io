@@ -2,9 +2,8 @@
 layout: page
 title: About Ku
 permalink: /about/
-image: /assets/hj.jpg
 ---
-HyunJin Ku[hj].
+HyunJin Ku
 
 Native Korean, studied at China(2003-2008).
 
