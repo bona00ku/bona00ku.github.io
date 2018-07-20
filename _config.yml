@@ -29,6 +29,17 @@ theme: minima
 plugins:
   - jekyll-feed
 
+
+defaults:
+    -
+        scope:
+            path:""
+            type:"posts"
+        values:
+            layout:"default"
+paginate: 5 #한 페이지에 보여주는 항목 개수
+paginate_path : "/blog/page:num/"
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

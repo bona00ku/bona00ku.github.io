@@ -5,9 +5,9 @@ permalink: /about/
 ---
 HyunJin Ku
 
-Native Korean, studied at China(2003-2008).
+CONTACT: bona00ku@gmail.com
 
 Undergrad in KAIST, double major in CS & ME.
 
-Research interest: Computer vision and graphics.
+RESEARCH INTEREST: Computer vision and graphics.
 
